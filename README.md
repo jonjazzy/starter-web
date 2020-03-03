@@ -17,6 +17,6 @@ Sample website with plenty of files for demos
 
 Go to the web link and contribute...duhhh
 
-##Deployment
+## Deployment
 
 Adding new section: Deployment
