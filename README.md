@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work
 
 ##Introduction (Second level heading)
 
-This is an intrduction...do with it what you will...;-)
+This is an intrduction...do with it what you will
 
 
 ## Purpose of the project (Second level heading)
@@ -15,8 +15,8 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-Go to the web link and contribute...duhhh!?
+Go to the web link and contribute...duhhh
 
 ##Deployment
 
-Adding new section: Deployment
+Adding new section: Deployment
