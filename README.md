@@ -21,3 +21,6 @@ Go to the web link and contribute...duhhh
 ## Deployment
 
 Adding new section: Deployment
+
+### Copyright
+This is a copyright notice...be wanred!!!
