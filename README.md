@@ -15,8 +15,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-Go to the web link and contribute...duhhh
-4th adn FInal Edit
+Please fork this repository and then issue
 
 ## Deployment
 
