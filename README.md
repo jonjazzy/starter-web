@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 
-##Introduction (Second level heading)
+## Introduction (Second level heading)
 
 This is an intrduction...do with it what you will
 
