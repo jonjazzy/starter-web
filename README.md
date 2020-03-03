@@ -16,3 +16,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 Go to the web link and contribute...duhhh!?
+
+##Deployment
+
+Adding new section: Deployment
