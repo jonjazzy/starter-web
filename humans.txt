@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Bello -- Head, of Fish -- https://twitter.com/twi-ah
 
 # THANKS
 
