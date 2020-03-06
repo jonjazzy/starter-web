@@ -1,7 +1,8 @@
 # Starter Web Project (First Level HEading)
 
 This repository is for showing how Git and GitHub work
-1st Edit
+1st Edit.
+ADding another line for reBasing example.
 
 ## Introduction (Second level heading)
 
