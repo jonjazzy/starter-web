@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 1st Edit.
-ADding another line for reBasing example.
+ADding another line for reBasing example, more changes from myFeature branch too.
 
 ## Introduction (Second level heading)
 
