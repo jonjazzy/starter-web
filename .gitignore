@@ -1,2 +1,3 @@
 random_file_i_dont_want.txt
 *.log
+*.orig
